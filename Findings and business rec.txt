@@ -1,6 +1,0 @@
-Summary and Insights:
-Order Completion: The majority of orders were completed with a high average rating (4.29) and a significant total revenue of $156.5.
-User Demographics: The highest number of orders came from users aged 26-35 years, with an average session rating of 4.43.
-Location Insights: Locations such as Chicago, New York, and San Francisco performed well with solid revenue and high ratings.
-Meal Performance: Dinner had the highest total revenue, indicating a preference for this meal type.
-Dish Preferences: Spaghetti and Grilled Chicken are the most profitable dishes, with a high number of orders and positive ratings.
